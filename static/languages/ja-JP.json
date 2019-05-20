@@ -23,7 +23,7 @@
 		"reason": "理由",
 		"operator": "Operator",
 		"date": "日付",
-		"expires": "解除日",
+		"expires": "解除日時",
 		"type": "Type",
 		"status": "Status",
 		"ban": "Ban",
