@@ -34,7 +34,7 @@
 		"warning": "Warning",
 		"temp_warning": "Temp. Warning",
 		"kick": "Kick",
-		"error_no_punishments": "表示可能は処罰が見つかりませんでした。",
+		"error_no_punishments": "表示可能な処罰が見つかりませんでした。",
 		"error_not_evaluated": "N/A"
 	}
 }
