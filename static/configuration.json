@@ -3,7 +3,7 @@
     "mod_rewrite": false,
     "default": {
         "theme": "photon",
-        "language": "en-US"
+        "language": "ja-JP"
     },
     "language": {
         "title": "AdvancedBans",
